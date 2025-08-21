@@ -1,4 +1,4 @@
-package com.navigationsample
+package com.anonymous.navigationsample
 
 import android.app.Application
 import android.content.res.Configuration

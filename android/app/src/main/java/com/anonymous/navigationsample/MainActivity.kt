@@ -1,4 +1,4 @@
-package com.navigationsample
+package com.anonymous.navigationsample
 
 import android.os.Build
 import android.os.Bundle
